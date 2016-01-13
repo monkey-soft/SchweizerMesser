@@ -5,6 +5,8 @@
         将文件（如：txt）中重复的字符串过滤掉。
 
 
+----------------------
+
 
 ### Python tool set
     1、CutDownRepetition
