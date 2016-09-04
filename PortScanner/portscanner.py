@@ -54,7 +54,7 @@ def printResults(resultlist):
 
 def main():
     parser = argparse.ArgumentParser(
-        prog='PortScanner 1.1.0',
+        prog='PortScanner 1.2.0',
         formatter_class=argparse.RawDescriptionHelpFormatter,
         description=textwrap.dedent('''
             usage %(prog)s
@@ -75,20 +75,20 @@ def main():
                         help='specify target host(required) 指定目标主机(必须)', required=True)
     parser.add_argument('-p', dest='targetPort', type=int,  nargs='*',  #　多个参数会填充到list中
                         help='specify target port 指定目标端口')
-    parser.add_argument('-a', dest='isAll',  type=str,
+    parser.add_argument('-a', dest='isAll',  type=bool, default=False,
                         help='specify all posts (1-65535)')
     # 获取参数
     args = parser.parse_args()
     print(args)
     targetHost = args.targetHost
     targetPorts = args.targetPort
-    isAll = argparse.isAll
+    isAll = args.isAll
 
-    if (targetHost == None | targetPorts == None):
+    if (targetHost == None )|( targetPorts == None):
         print('[-] You must specify a target host and ports[s]!')
         exit(0)
 
-    # # 当用户不指定端口, 即扫描常见的端口
+    # 当用户不指定端口, 即扫描常见的端口
     if (len(targetPorts) == 0):
         targetPorts = [21,22,23,25,53,80,81,109,110,111,123,135,137,139,161,162,389,443,512,513,873,
                        1080,1158,1433,1521,1900,2049,2100,2222,2601,2604,2082,2083,3128,3312,3306,
@@ -96,7 +96,8 @@ def main():
                        8088,8089,8090,8099,8161,8649,8888,9000,9080,9090,9200,9300,9999,10050,11211,
                        27017,28017,37777,50000,50060,50070]
 
-
+    if (isAll == True):
+        targetPorts = range(1, 65536)
     portScan(targetHost, targetPorts)
 
 if __name__ == '__main__':
