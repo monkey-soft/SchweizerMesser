@@ -5,24 +5,21 @@ __author__ = 'monkey'
 # 去掉重复的字符串
 def Cutdown(filename):
     with open(filename, 'r') as f:
-        lines = f.readlines()
-
-    list = []
-    for each in lines:
-        if each in list:
-            pass
-        else:
-            list.append(each)
-    return list
+        for each in f:
+            if each in simplelist:
+                pass
+            else:
+                simplelist.append(each)
 
 # 保存过滤掉重复的列表
-def writeToFile(list):
-    f = open('new.txt', 'a')
-    for each in list:
-        f.writelines(each)
-    f.close()
+def writeToFile():
+    with open('new.txt', 'a') as wirtedFile:
+        for each in simplelist:
+            wirtedFile.writelines(each)
+        wirtedFile.close()
 
 if __name__ == '__main__':
     filename = input('please input filename:\n')
-    list = Cutdown(filename);
-    writeToFile(list)
+    simplelist = []
+    Cutdown(filename);
+    writeToFile()
