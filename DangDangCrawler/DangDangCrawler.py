@@ -6,7 +6,6 @@ import codecs
 from bs4 import BeautifulSoup
 
 
-
 def main():
     # 爬取地址, 当当所有 Python 的书籍, 一共是 21 页
     url = "http://search.dangdang.com/?key=python&act=input&show=big&page_index="
@@ -29,13 +28,13 @@ def main():
         response = urllib.request.urlopen(request)
         index = index + 1
         # 解析爬取内容
-        parseContent(response)
+        parse_content(response)
         time.sleep(1)  # 休眠1秒
 
-    showResult()
+    show_result()
 
 
-def parseContent(response):
+def parse_content(response):
     # 提取爬取内容中的 a 标签, 例如：
     # <a
     #     class="pic" dd_name="单品图片"
@@ -57,11 +56,11 @@ def parseContent(response):
     print('get books size = ' + str(len(books)))
 
 
-def showResult():
-    fileName = 'PythonBook.csv'
+def show_result():
+    file_name = 'PythonBook.csv'
 
     # 指定编码为 utf-8, 避免写 csv 文件出现中文乱码
-    with codecs.open(fileName, 'w','utf-8') as csvfile:
+    with codecs.open(file_name, 'w', 'utf-8') as csvfile:
         filednames = ['书名', '页面地址', '图片地址']
         writer = csv.DictWriter(csvfile, fieldnames=filednames)
 
@@ -81,8 +80,8 @@ def showResult():
             except UnicodeEncodeError:
                 print("编码错误, 该数据无法写到文件中, 直接忽略该数据")
 
+    print('将数据写到 ' + file_name + '成功！')
 
-    print('将数据写到 ' + fileName + '成功！')
 
 if __name__ == '__main__':
     books = []
