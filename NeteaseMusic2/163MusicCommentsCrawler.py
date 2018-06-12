@@ -23,8 +23,7 @@ db_manager = client[MONGO_DB]
 
 
 def start_spider(url):
-    """  """
-    # 会启动 Chrome 浏览器访问页面
+    """ 启动 Chrome 浏览器访问页面 """
     """
     # 从 Chrome 59 版本, 支持 Headless 模式(无界面模式), 即不会弹出浏览器
     chrome_options = webdriver.ChromeOptions()
