@@ -36,7 +36,7 @@ def start_spider(song_id):
     print(response.status_code)
     # get_hot_comments(response.text)
     # 将数据写到 CSV 文件中
-    write_to_file(song_id, get_hot_comments(response.text))
+    write_to_file(get_hot_comments(response.text))
 
 
 def get_hot_comments(response):
@@ -57,7 +57,7 @@ def get_hot_comments(response):
     return data_list
 
 
-def write_to_file(song_id, datalist):
+def write_to_file(datalist):
     print('开始将数据持久化……')
     file_name = '网易云音乐精彩评论.csv'
 
