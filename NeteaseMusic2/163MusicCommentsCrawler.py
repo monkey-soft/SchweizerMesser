@@ -37,6 +37,10 @@ def start_spider(url):
     # 页面嵌套一层 iframe, 必须切换到 iframe, 才能定位的到 iframe 里面的元素
     iframe = brower.find_element_by_class_name('g-iframe')
     brower.switch_to.frame(iframe)
+    # 增加一层保护, 拉动滚动条到底部
+    js = "var q=document.documentElement.scrollTop=20000"
+    brower.execute_script(js)
+
     # 获取【最新评论】总数
     new_comments = brower.find_elements(By.XPATH, "//h3[@class='u-hd4']")[1]
 
