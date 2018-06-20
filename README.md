@@ -46,6 +46,14 @@
 - 存储数据到 MongoDB 
 - 使用 Selenium 爬取《Five Hundred Miles》 在网易云音乐的所有评论, 然后存储到 MongoDB 中。
 
+
+#### 6)[多线程爬取 unsplash 图库](./UnsplashCrawler)
+> 说明
+
+- 使用 requests、urllib 等网络请求库。
+- 使用多线程爬取网站
+
+
 ### 写在最后
 该仓库会持续更新...
 
