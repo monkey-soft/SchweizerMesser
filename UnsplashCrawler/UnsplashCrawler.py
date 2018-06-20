@@ -1,6 +1,5 @@
 # -*- coding:utf-8 -*-
 
-import datetime
 import json
 import os
 import threading
@@ -21,6 +20,7 @@ url_queue = Queue()
 THREAD_SUM = 5
 # 存储图片的位置
 IMAGE_SRC = 'D://Unsplash/'
+
 
 class Unsplash(threading.Thread):
 
@@ -51,7 +51,7 @@ class Unsplash(threading.Thread):
             'authority': 'unsplash.com',
             'viewport-width': '1920',
         }
-        response = requests.get(url)
+        response = requests.get(url, headers=headers)
         print('请求第[ ' + url + ' ], 状态码为 ', response.status_code)
         self.get_image_url(response.text)
 
@@ -75,7 +75,6 @@ class Unsplash(threading.Thread):
             urllib.request.urlretrieve(image_url, filename=filename)
         except IOError as e:
             print('保存图片出现异常失败', e)
-
 
 
 def get_all_url():
