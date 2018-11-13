@@ -25,23 +25,25 @@ def get_cities():
             city = line.replace('\n', '')
             cities.append(city)
 
+    count = 1
     results = {}
     # 依次遍历所有城市的餐厅
     for city in cities:
-        restaurants = get_stores(city)
+        restaurants = get_stores(city, count)
         results[city] = restaurants
+        count += 1
         time.sleep(2)
 
     with open('results.json', 'w', encoding='UTF-8') as file:
         file.write(json.dumps(results, indent=4, ensure_ascii=False))
 
 
-def get_stores(city):
+def get_stores(city, count):
     """ 根据城市获取餐厅信息 """
     session = requests.Session()
     # 对【城市|0|0】进行 Url 编码
     city_urlencode = quote(city + '|0|0')
-    # 获取首页的 cookies
+    # 用来存储首页的 cookies
     cookies = requests.cookies.RequestsCookieJar()
 
     headers = {
@@ -52,7 +54,7 @@ def get_stores(city):
         'Connection': 'keep-alive',
     }
 
-    print('============', city, '============')
+    print('============第', count, '个城市:', city, '============')
     resp_from_index = session.get('http://www.pizzahut.com.cn/', headers=headers)
     # print(resp_from_index.cookies)
     # 然后将原来 cookies 的 iplocation 字段，设置自己想要抓取城市。
@@ -97,7 +99,7 @@ def get_stores(city):
             break
         restaurants += temp_items
         page += 1
-        time.sleep(2)
+        time.sleep(5)
     return restaurants
 
 
