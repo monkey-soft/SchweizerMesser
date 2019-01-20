@@ -1,0 +1,1105 @@
+{"cmts": [{
+		"approve": 0,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"avatarurl": "https://img.meituan.net/maoyanuser/8bcb755048586d97d25e8cbb91db389411430.png",
+		"cityName": "潍坊",
+		"content": "11111111",
+		"filmView": false,
+		"id": 1052017259,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "uwB755407197",
+		"nickName": "uwB755407197",
+		"oppose": 0,
+		"pro": false,
+		"reply": 0,
+		"score": 4.5,
+		"spoiler": 0,
+		"startTime": "2019-01-20 11:01:22",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 1,
+		"tagList": {
+			"fixed": [{
+				"id": 1,
+				"name": "好评"
+			}, {
+				"id": 4,
+				"name": "购票"
+			}]
+		},
+		"time": "2019-01-20 11:01",
+		"userId": 757776326,
+		"userLevel": 1,
+		"videoDuration": 0,
+		"vipType": 0
+	}, {
+		"approve": 0,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"authInfo": "",
+		"avatarurl": "https://img.meituan.net/avatar/17797a9bfdf01d3631a83a43011f1f79162899.jpg",
+		"cityName": "武汉",
+		"content": "支持国产动画片",
+		"filmView": false,
+		"gender": 2,
+		"id": 1052080389,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "hMs935420209",
+		"nickName": "jolin-chow",
+		"oppose": 0,
+		"pro": false,
+		"reply": 0,
+		"score": 4.5,
+		"spoiler": 0,
+		"startTime": "2019-01-20 11:01:10",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 0,
+		"tagList": {
+			"fixed": [{
+				"id": 1,
+				"name": "好评"
+			}, {
+				"id": 4,
+				"name": "购票"
+			}]
+		},
+		"time": "2019-01-20 11:01",
+		"userId": 112875145,
+		"userLevel": 4,
+		"videoDuration": 0,
+		"vipInfo": "",
+		"vipType": 0
+	}, {
+		"approve": 0,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"avatarurl": "https://vfile.meituan.net/maoyanuser/35c008e729dfbbc8ecda153f757923ae1746.jpg",
+		"cityName": "兰州",
+		"content": "符合原著基本逻辑，没有天马行空。剧情很吸引人，人物画质很好。最后结局回归点棒极了，回归到电视剧版最经典原著片段，承上启下。棒极了",
+		"filmView": false,
+		"gender": 2,
+		"id": 1052009621,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "仲夏夜之梦",
+		"nickName": "仲夏夜之梦",
+		"oppose": 0,
+		"pro": false,
+		"reply": 0,
+		"score": 4.5,
+		"spoiler": 0,
+		"startTime": "2019-01-20 11:00:57",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 0,
+		"time": "2019-01-20 11:00",
+		"userId": 1062717711,
+		"userLevel": 2,
+		"videoDuration": 0,
+		"vipType": 0
+	}, {
+		"approve": 1,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"avatarurl": "https://img.meituan.net/maoyanuser/23f19f4cdfe538bdf85f0ccd863346639437.png",
+		"cityName": "常州",
+		"content": "美，国产动画的破局之作，女主，小青，宝青坊主，造型太美了，片尾回忆杀，直接杀到泪崩，带女友去看，女友已哭死在影院，我一个人回去的！",
+		"filmView": false,
+		"id": 1052090910,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "my13182516665",
+		"nickName": "my13182516665",
+		"oppose": 0,
+		"pro": false,
+		"reply": 0,
+		"score": 5,
+		"spoiler": 0,
+		"startTime": "2019-01-20 11:00:41",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 0,
+		"tagList": {
+			"fixed": [{
+				"id": 1,
+				"name": "好评"
+			}, {
+				"id": 4,
+				"name": "购票"
+			}]
+		},
+		"time": "2019-01-20 11:00",
+		"userId": 36418143,
+		"userLevel": 2,
+		"videoDuration": 0,
+		"vipType": 0
+	}, {
+		"approve": 0,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"avatarurl": "https://img.meituan.net/avatar/ea98132c019cf3aaeab3824f2fcfc98414991.jpg",
+		"cityName": "武汉",
+		"content": "电影很唯美……电影院音质出问题，反应了工作人员也不解决，美中不足吧",
+		"filmView": false,
+		"gender": 1,
+		"id": 1052078646,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "小王子FHW",
+		"nickName": "小王子FHW",
+		"oppose": 0,
+		"pro": false,
+		"reply": 0,
+		"score": 5,
+		"spoiler": 0,
+		"startTime": "2019-01-20 11:00:17",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 1,
+		"tagList": {
+			"fixed": [{
+				"id": 1,
+				"name": "好评"
+			}, {
+				"id": 4,
+				"name": "购票"
+			}]
+		},
+		"time": "2019-01-20 11:00",
+		"userId": 33296217,
+		"userLevel": 2,
+		"videoDuration": 0,
+		"vipType": 0
+	}, {
+		"approve": 0,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"avatarurl": "https://img.meituan.net/maoyanuser/8d97a394f25636f65f208f2baf649f903140.jpg",
+		"cityName": "漯河",
+		"content": "画质真的炒鸡炒鸡赞\\(≧▽≦)/，可以说是国漫的精品了！每个场面都可以做壁纸！剧情也很好，给9分，继续努力",
+		"filmView": false,
+		"id": 1052090898,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "王艳红",
+		"nickName": "王艳红",
+		"oppose": 0,
+		"pro": false,
+		"reply": 0,
+		"score": 4.5,
+		"spoiler": 0,
+		"startTime": "2019-01-20 10:59:55",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 1,
+		"tagList": {
+			"fixed": [{
+				"id": 1,
+				"name": "好评"
+			}, {
+				"id": 4,
+				"name": "购票"
+			}]
+		},
+		"time": "2019-01-20 10:59",
+		"userId": 2442332404,
+		"userLevel": 1,
+		"videoDuration": 0,
+		"vipType": 0
+	}, {
+		"approve": 0,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"avatarurl": "https://img.meituan.net/maoyanuser/f174d1d47590f43dd835575e39aebcd13809.jpg",
+		"cityName": "湛江",
+		"content": "中国版泰坦尼克号",
+		"filmView": false,
+		"id": 1052025148,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "罗罗罗",
+		"nickName": "罗罗罗",
+		"oppose": 0,
+		"pro": false,
+		"reply": 0,
+		"score": 5,
+		"spoiler": 0,
+		"startTime": "2019-01-20 10:59:36",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 1,
+		"tagList": {
+			"fixed": [{
+				"id": 1,
+				"name": "好评"
+			}, {
+				"id": 4,
+				"name": "购票"
+			}]
+		},
+		"time": "2019-01-20 10:59",
+		"userId": 2442647810,
+		"userLevel": 1,
+		"videoDuration": 0,
+		"vipType": 0
+	}, {
+		"approve": 0,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"authInfo": "",
+		"avatarurl": "https://img.meituan.net/avatar/f9c390f0db70d5315f52506b533bca34116703.jpg",
+		"cityName": "新乡",
+		"content": "中国动画要崛起！一部比一部精彩。",
+		"filmView": false,
+		"id": 1052017237,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "小蛤蟆无敌",
+		"nickName": "小蛤蟆无敌",
+		"oppose": 0,
+		"pro": false,
+		"reply": 0,
+		"score": 4.5,
+		"spoiler": 0,
+		"startTime": "2019-01-20 10:59:35",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 1,
+		"tagList": {
+			"fixed": [{
+				"id": 1,
+				"name": "好评"
+			}, {
+				"id": 4,
+				"name": "购票"
+			}]
+		},
+		"time": "2019-01-20 10:59",
+		"userId": 175466909,
+		"userLevel": 2,
+		"videoDuration": 0,
+		"vipInfo": "",
+		"vipType": 0
+	}, {
+		"approve": 0,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"avatarurl": "https://img.meituan.net/maoyanuser/b9a2e18c357dadbdcba8db89448a5ffb15298.png",
+		"cityName": "成都",
+		"content": "画面美轮美奂，故事情节也算合情合理，最后在小白使出最后力气留住许宣的魂魄时，居然看哭了……喜欢中国风的电影，加油！",
+		"filmView": false,
+		"id": 1052017226,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "riZ912403100",
+		"nickName": "riZ912403100",
+		"oppose": 0,
+		"pro": false,
+		"reply": 0,
+		"score": 5,
+		"spoiler": 0,
+		"startTime": "2019-01-20 10:58:59",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 0,
+		"time": "2019-01-20 10:58",
+		"userId": 262631452,
+		"userLevel": 1,
+		"videoDuration": 0,
+		"vipType": 0
+	}, {
+		"approve": 0,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"avatarurl": "https://img.meituan.net/maoyanuser/5c0b10b6bef29a2e4c4d1462fa97c0233252.jpg",
+		"cityName": "兰州",
+		"content": "作为国漫值得鼓励，第二部还会去看的",
+		"filmView": false,
+		"id": 1052075910,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "红豆小年糕",
+		"nickName": "红豆小年糕",
+		"oppose": 0,
+		"pro": false,
+		"reply": 0,
+		"score": 5,
+		"spoiler": 0,
+		"startTime": "2019-01-20 10:58:45",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 0,
+		"time": "2019-01-20 10:58",
+		"userId": 1011401077,
+		"userLevel": 1,
+		"videoDuration": 0,
+		"vipType": 0
+	}, {
+		"approve": 0,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"authInfo": "",
+		"avatarurl": "https://img.meituan.net/avatar/4fe21f71f7bb173ae9ebbf5ca70abf83124530.jpg",
+		"cityName": "南昌",
+		"content": "很好看，很好看",
+		"filmView": false,
+		"id": 1052009590,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "TOk333274578",
+		"nickName": "TOk333274578",
+		"oppose": 0,
+		"pro": false,
+		"reply": 0,
+		"score": 5,
+		"spoiler": 0,
+		"startTime": "2019-01-20 10:57:47",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 1,
+		"tagList": {
+			"fixed": [{
+				"id": 1,
+				"name": "好评"
+			}, {
+				"id": 4,
+				"name": "购票"
+			}]
+		},
+		"time": "2019-01-20 10:57",
+		"userId": 132468759,
+		"userLevel": 4,
+		"videoDuration": 0,
+		"vipInfo": "",
+		"vipType": 0
+	}, {
+		"approve": 0,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"avatarurl": "https://img.meituan.net/maoyanuser/ae0f8615872faedd5e945b54bb7f5c1d3410.jpg",
+		"cityName": "成都",
+		"content": "制作太美了，每一次定格都能成为壁纸呢，就是剧情有点快。终极打怪的时候，大boss就那么那么容易死了，额，无语……感觉就像打酱油的。有人说剧情俗套，哈哈，我就喜欢俗套的",
+		"filmView": false,
+		"gender": 2,
+		"id": 1052090869,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "阡陌",
+		"nickName": "阡陌",
+		"oppose": 0,
+		"pro": false,
+		"reply": 0,
+		"score": 4.5,
+		"spoiler": 0,
+		"startTime": "2019-01-20 10:57:28",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 1,
+		"tagList": {
+			"fixed": [{
+				"id": 1,
+				"name": "好评"
+			}, {
+				"id": 4,
+				"name": "购票"
+			}]
+		},
+		"time": "2019-01-20 10:57",
+		"userId": 1778263602,
+		"userLevel": 1,
+		"videoDuration": 0,
+		"vipType": 0
+	}, {
+		"approve": 0,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"avatarurl": "https://img.meituan.net/maoyanuser/4ad69bb2ebd7596d3dad22ba774759183479.jpg",
+		"cityName": "深圳",
+		"content": "非常棒，画面太美，超预期的电影。",
+		"filmView": false,
+		"gender": 1,
+		"id": 1052096562,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "Ricewithshell 💐 🎉",
+		"nickName": "Ricewithshell 💐 🎉",
+		"oppose": 0,
+		"pro": false,
+		"reply": 0,
+		"score": 5,
+		"spoiler": 0,
+		"startTime": "2019-01-20 10:56:04",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 1,
+		"tagList": {
+			"fixed": [{
+				"id": 1,
+				"name": "好评"
+			}, {
+				"id": 4,
+				"name": "购票"
+			}]
+		},
+		"time": "2019-01-20 10:56",
+		"userId": 1781337175,
+		"userLevel": 2,
+		"videoDuration": 0,
+		"vipType": 0
+	}, {
+		"approve": 0,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"avatarurl": "https://vfile.meituan.net/maoyanuser/6434ddcc04639f897e9ab0efa62ded1d2580.jpg",
+		"cityName": "杭州",
+		"content": "真的好看，国漫电影很有魅力",
+		"filmView": false,
+		"gender": 1,
+		"id": 1052096559,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "王俊翔💥",
+		"nickName": "王俊翔💥",
+		"oppose": 0,
+		"pro": false,
+		"reply": 0,
+		"score": 5,
+		"spoiler": 0,
+		"startTime": "2019-01-20 10:55:46",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 1,
+		"tagList": {
+			"fixed": [{
+				"id": 1,
+				"name": "好评"
+			}, {
+				"id": 4,
+				"name": "购票"
+			}]
+		},
+		"time": "2019-01-20 10:55",
+		"userId": 1882116960,
+		"userLevel": 2,
+		"videoDuration": 0,
+		"vipType": 0
+	}, {
+		"approve": 0,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"authInfo": "",
+		"avatarurl": "https://img.meituan.net/avatar/cb3450a32bcd5dc4be247672eab3476c3435.jpg",
+		"cityName": "襄阳",
+		"content": "我真的很喜欢",
+		"filmView": false,
+		"gender": 1,
+		"id": 1052009568,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "山音265",
+		"nickName": "山音",
+		"oppose": 0,
+		"pro": false,
+		"reply": 0,
+		"score": 5,
+		"spoiler": 0,
+		"startTime": "2019-01-20 10:55:41",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 0,
+		"time": "2019-01-20 10:55",
+		"userId": 441068613,
+		"userLevel": 2,
+		"videoDuration": 0,
+		"vipInfo": "",
+		"vipType": 0
+	}],
+	"hcmts": [{
+		"approve": 3450,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"authInfo": "",
+		"avatarurl": "https://vfile.meituan.net/maoyanuser/1b1b71ea1b8bfef0a17a33056d813df31759.jpg",
+		"cityName": "北京",
+		"content": "剧情太快，感觉少了点什么，中间转折有些生硬，片尾让人怀念，国剧经典。",
+		"filmView": false,
+		"id": 1050989000,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "多宝天使",
+		"nickName": "多宝天使",
+		"oppose": 0,
+		"pro": false,
+		"reply": 195,
+		"score": 4.5,
+		"spoiler": 0,
+		"startTime": "2019-01-11 11:10:35",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 1,
+		"tagList": {
+			"fixed": [{
+				"id": 1,
+				"name": "好评"
+			}, {
+				"id": 4,
+				"name": "购票"
+			}]
+		},
+		"time": "2019-01-11 11:10",
+		"userId": 1008602141,
+		"userLevel": 6,
+		"videoDuration": 0,
+		"vipInfo": "",
+		"vipType": 0
+	}, {
+		"approve": 3893,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"authInfo": "",
+		"avatarurl": "https://img.meituan.net/avatar/44b533a7c0d96f014fa32981824ff766414885.jpg",
+		"cityName": "重庆",
+		"content": "每一帧都特别美，音乐也非常好听！！特别片尾，唤起了以前看白娘子的回忆啊啊啊啊，想看第二遍",
+		"filmView": false,
+		"id": 1050989465,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "Y.Fel",
+		"nickName": "Y.Fel",
+		"oppose": 0,
+		"pro": false,
+		"reply": 86,
+		"score": 5,
+		"spoiler": 0,
+		"startTime": "2019-01-11 11:38:43",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 1,
+		"tagList": {
+			"fixed": [{
+				"id": 1,
+				"name": "好评"
+			}, {
+				"id": 4,
+				"name": "购票"
+			}]
+		},
+		"time": "2019-01-11 11:38",
+		"userId": 95009828,
+		"userLevel": 2,
+		"videoDuration": 0,
+		"vipInfo": "",
+		"vipType": 0
+	}, {
+		"approve": 2503,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"authInfo": "",
+		"avatarurl": "https://img.meituan.net/maoyanuser/4fbe27b9198df4cfe939a16b2abe79a34417.jpg",
+		"cityName": "抚顺",
+		"content": "超棒 期待下一部\n好期待这样的爱情 估计在现实世界里没有这样的爱情吧",
+		"filmView": false,
+		"gender": 1,
+		"id": 1050997791,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "寻龙分金看缠山 一重缠是一重关",
+		"nickName": "寻龙分金看缠山 一重缠是一重关",
+		"oppose": 0,
+		"pro": false,
+		"reply": 56,
+		"score": 5,
+		"spoiler": 0,
+		"startTime": "2019-01-11 11:38:41",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 1,
+		"tagList": {
+			"fixed": [{
+				"id": 1,
+				"name": "好评"
+			}, {
+				"id": 4,
+				"name": "购票"
+			}]
+		},
+		"time": "2019-01-11 11:38",
+		"userId": 1404679424,
+		"userLevel": 6,
+		"videoDuration": 0,
+		"vipInfo": "",
+		"vipType": 0
+	}, {
+		"approve": 988,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"authInfo": "",
+		"avatarurl": "https://vfile.meituan.net/maoyanuser/ccfe21beece3ddc211bfac17f28d8e194867.jpg",
+		"cityName": "长春",
+		"content": "继2003年国产梁山伯与祝英台动画之后又带给我视觉心灵双重享受的国产动画。虽然剧情并没有什么出彩的地方 可以说有点老套。一眼就看出最终大boss了。但是依然很感动。我一个28岁的大老爷们还能看到鼻子酸酸的。国产动画的视觉效果越来越棒了。最后结尾真的是一波回忆杀。白素贞的回头杀瞬间让人心头一颤 鸡皮疙瘩秒起。白蛇可是我们那个年代无数人心中的女神。作为国产动画能有这么大尺度场面出现已经很棒了 妙曼的身姿 无论谁都会为之着迷吧。真的很棒。希望不要出续作。这样的就很完美了 渔夫致敬的歌曲 简直666 唯独可惜的就是 我是一个人来看 ",
+		"filmView": false,
+		"id": 1051009496,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "张名泓企",
+		"nickName": "张名泓企",
+		"oppose": 0,
+		"pro": false,
+		"reply": 81,
+		"score": 5,
+		"spoiler": 0,
+		"startTime": "2019-01-11 14:04:44",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 1,
+		"tagList": {
+			"fixed": [{
+				"id": 1,
+				"name": "好评"
+			}, {
+				"id": 4,
+				"name": "购票"
+			}]
+		},
+		"time": "2019-01-11 14:04",
+		"userId": 1012067453,
+		"userLevel": 5,
+		"videoDuration": 0,
+		"vipInfo": "",
+		"vipType": 0
+	}, {
+		"approve": 834,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"authInfo": "",
+		"avatarurl": "https://vfile.meituan.net/maoyanuser/427cf2dbda8e972d2a3917b5115913b73485.jpg",
+		"cityName": "上饶",
+		"content": "看完这部电影就分手了。\n",
+		"filmView": false,
+		"id": 1051352435,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "戳大西",
+		"nickName": "戳大西",
+		"oppose": 0,
+		"pro": false,
+		"reply": 214,
+		"score": 0.5,
+		"spoiler": 0,
+		"startTime": "2019-01-13 23:02:53",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 1,
+		"tagList": {
+			"fixed": [{
+				"id": 2,
+				"name": "差评"
+			}, {
+				"id": 4,
+				"name": "购票"
+			}]
+		},
+		"time": "2019-01-13 23:02",
+		"userId": 1021964423,
+		"userLevel": 4,
+		"videoDuration": 0,
+		"vipInfo": "",
+		"vipType": 0
+	}, {
+		"approve": 657,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"authInfo": "",
+		"avatarurl": "https://img.meituan.net/maoyanuser/5286fc475bd26f589f462add7d3fed156627.jpg",
+		"cityName": "齐齐哈尔",
+		"content": "我给半颗星其实不是我本意 因为电影实在太精彩了。我希望国家能够对电影分级 广电总局也不知道怎么回事 魔兽你说人物模型恐怖让改 这部电影对于孩子来说太污就不说什么了吗 我对审核影片的任何人强烈的鄙视 要不就阉割 要不就是售票的时候说明。我们祖国的花朵就这样的学习到如何钓马子上床是吗。这要是刚建国估计导演都得判刑。我对国内影片市场感到悲哀。就像地球最后一夜  你说让孩子看到脱衣的画面在和别人模仿就是什么情况  我更正一下 首先我没带孩子去 但电影院我却看到有孩子 这是一个公共场合我认为不应该这么大尺度 哪怕片头大字写着不适合孩子观看 谢谢 ",
+		"filmView": false,
+		"id": 1051128063,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "千与千寻",
+		"nickName": "千与千寻",
+		"oppose": 0,
+		"pro": false,
+		"reply": 1404,
+		"score": 0.5,
+		"spoiler": 0,
+		"startTime": "2019-01-13 12:50:05",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 1,
+		"tagList": {
+			"fixed": [{
+				"id": 2,
+				"name": "差评"
+			}, {
+				"id": 4,
+				"name": "购票"
+			}]
+		},
+		"time": "2019-01-13 12:50",
+		"userId": 1035423354,
+		"userLevel": 3,
+		"videoDuration": 0,
+		"vipInfo": "",
+		"vipType": 0
+	}, {
+		"approve": 844,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"authInfo": "",
+		"avatarurl": "https://img.meituan.net/avatar/2951af27890afec2504ac116bde3a9b1113877.jpg",
+		"cityName": "成都",
+		"content": "用中国的制作，画中国的传统故事，把我们的文化发扬光大带到全世界，这件事真是越来越有希望了！\n  近年来我觉得最佳的国产动画作品，整体制作完备，没有偷工减料之感。剧情流畅合理，场景细节丰满，人物塑造形神俱备。\n  配音演员也功力不俗。结尾吸魂法阵中小白梨花带雨时的哭腔哼唱直接把悲剧剧情推向高潮，令人眼鼻发酸，为之动容…\n  “如果你喜欢我就教给你唱”这句话该怎么断句？这肯定看了才知道啊！",
+		"filmView": false,
+		"id": 1051005551,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "_qq3541424583317",
+		"nickName": "身高根号三",
+		"oppose": 0,
+		"pro": false,
+		"reply": 27,
+		"score": 5,
+		"spoiler": 0,
+		"startTime": "2019-01-11 12:59:20",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 0,
+		"tagList": {
+			"fixed": [{
+				"id": 1,
+				"name": "好评"
+			}, {
+				"id": 4,
+				"name": "购票"
+			}]
+		},
+		"time": "2019-01-11 12:59",
+		"userId": 163587620,
+		"userLevel": 5,
+		"videoDuration": 0,
+		"vipInfo": "",
+		"vipType": 0
+	}, {
+		"approve": 508,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"authInfo": "",
+		"avatarurl": "https://vfile.meituan.net/maoyanuser/edcbcdaf57f6f8ff6544df31ed73c64c2499.jpg",
+		"cityName": "广州",
+		"content": "头发做得很好看！3D技术有好大进步。故事说的不错，不俗套。男主确实我喜欢的性格。就是小白的眉毛一直愁愁的……干嘛这么愁。国漫实在越来越好。水墨部分十分出彩！大力推进！",
+		"filmView": false,
+		"id": 1050998399,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "maimay 玥曦",
+		"nickName": "maimay 玥曦",
+		"oppose": 0,
+		"pro": false,
+		"reply": 23,
+		"score": 5,
+		"spoiler": 0,
+		"startTime": "2019-01-11 11:51:43",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 1,
+		"tagList": {
+			"fixed": [{
+				"id": 1,
+				"name": "好评"
+			}, {
+				"id": 4,
+				"name": "购票"
+			}]
+		},
+		"time": "2019-01-11 11:51",
+		"userId": 1007953314,
+		"userLevel": 5,
+		"videoDuration": 0,
+		"vipInfo": "",
+		"vipType": 0
+	}, {
+		"approve": 366,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"authInfo": "",
+		"avatarurl": "https://img.meituan.net/avatar/d4027276bd8b59f2a9200ffaafff3aef13522.jpg",
+		"cityName": "贵阳",
+		"content": "电影还行，就是有的逻辑有点迷，扣一分是扣给工作人员（小十字星美国际影院），本来应该10:15才开始看电影，结果10:02（还是05）就把我们叫进去看（电影已经播了），有两分钟的内容并没有看到，后续看的挺懵逼的，后来想投诉，某男性工作人员态度极差，并且我们说找人投诉，就直接叫我们下楼找经理，也没有告诉我们几楼，请问我们怎么找？工作人员就只给我们一个机器问题的导致，但是至少经理给我们道歉并且想补偿（拒绝了），那个男性工作人员连句道歉都没有，希望严重批评。",
+		"filmView": false,
+		"id": 1051002237,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "SL4088",
+		"nickName": "SL4088",
+		"oppose": 0,
+		"pro": false,
+		"reply": 105,
+		"score": 4.5,
+		"spoiler": 0,
+		"startTime": "2019-01-14 09:13:47",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 1,
+		"tagList": {
+			"fixed": [{
+				"id": 1,
+				"name": "好评"
+			}, {
+				"id": 4,
+				"name": "购票"
+			}]
+		},
+		"time": "2019-01-14 09:13",
+		"userId": 69973092,
+		"userLevel": 3,
+		"videoDuration": 0,
+		"vipInfo": "",
+		"vipType": 0
+	}, {
+		"approve": 360,
+		"approved": false,
+		"assistAwardInfo": {
+			"avatar": "",
+			"celebrityId": 0,
+			"celebrityName": "",
+			"rank": 0,
+			"title": ""
+		},
+		"authInfo": "",
+		"avatarurl": "https://img.meituan.net/maoyanuser/1174f05a56a6788ace08355bda8be59c4190.jpg",
+		"cityName": "哈尔滨",
+		"content": "看完了有些小激动！首先国产动画已经制作的如此精良了！欣慰！这是拍给大朋友的动画片，真的很不错。而且男女缠绵的部分处理的非常不错，希望国产动画继续厚积薄发！加油！",
+		"filmView": false,
+		"gender": 2,
+		"id": 1051000348,
+		"isMajor": false,
+		"juryLevel": 0,
+		"majorType": 0,
+		"movieId": 1235560,
+		"nick": "🐾洋洋得意💋",
+		"nickName": "🐾洋洋得意💋",
+		"oppose": 0,
+		"pro": false,
+		"reply": 7,
+		"score": 4.5,
+		"spoiler": 0,
+		"startTime": "2019-01-11 12:30:42",
+		"supportComment": true,
+		"supportLike": true,
+		"sureViewed": 1,
+		"tagList": {
+			"fixed": [{
+				"id": 1,
+				"name": "好评"
+			}, {
+				"id": 4,
+				"name": "购票"
+			}]
+		},
+		"time": "2019-01-11 12:30",
+		"userId": 1702210261,
+		"userLevel": 5,
+		"videoDuration": 0,
+		"vipInfo": "",
+		"vipType": 0
+	}],
+	"total": 31928
+}
