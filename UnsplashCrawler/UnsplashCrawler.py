@@ -10,7 +10,9 @@ import requests
 import time
 
 """
-    使用多线程将 Unsplash 的图片下载到本地
+【1】教程文章：https://mp.weixin.qq.com/s/hZxAAVW2UntRC8hyD_UWAA    
+【2】使用多线程将 Unsplash 的图片下载到本地
+
 @Author monkey
 @Date 2018-6-19
 """

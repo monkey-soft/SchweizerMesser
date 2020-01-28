@@ -8,7 +8,10 @@ import requests
 import time
 
 """
-    爬取全国各大城市的必胜客餐厅
+【1】教程文章：https://mp.weixin.qq.com/s/ofBYdB26h4DJFyleZnBt5A
+【2】爬取全国各大城市的必胜客餐厅
+【3】反爬虫分析, 破解 cookies 的 iplocation 字段
+    
 @Author monkey
 @Date 2018-11-8
 """

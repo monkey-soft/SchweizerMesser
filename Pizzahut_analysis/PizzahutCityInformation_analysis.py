@@ -8,7 +8,11 @@ import json
 
 
 """
-    可视化分析全国各大城市的必胜客餐厅
+    
+【1】教程文章：hhttps://mp.weixin.qq.com/s/CXdAcCVurHlOk4nCZXkPHQ
+【2】使用 Python 可视化分析全国各大城市的必胜客餐厅
+【3】pyecharts 用法
+    
 @Author monkey
 @Date 2018-11-25
 """

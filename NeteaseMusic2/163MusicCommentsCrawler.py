@@ -8,8 +8,10 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 """
-    使用 Selenium 爬取网易云音乐歌曲的所有评论
-    数据存储到 Mongo 数据库中
+【1】教程文章：https://mp.weixin.qq.com/s/kcA-6WEHWQ-DOwxtWtYjWw
+【2】使用 Selenium 爬取《Five Hundred Miles》 在网易云音乐歌曲的所有评论
+【3】数据存储到 Mongo 数据库中
+   
 @Author monkey
 @Date 2018-6-10
 """

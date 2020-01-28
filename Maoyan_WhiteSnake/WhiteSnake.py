@@ -6,9 +6,11 @@ import random
 import requests
 import time
 
-
 """
-    抓取猫眼 《白蛇：缘起》的短片
+【1】教程文章：https://mp.weixin.qq.com/s/zRJww2SRsexYGhbNJ4HtPw
+【2】抓取猫眼 《白蛇：缘起》的短片 
+【3】反爬虫分析, 抓包教程
+   
 @Author monkey
 @Date 2019-1-20
 """

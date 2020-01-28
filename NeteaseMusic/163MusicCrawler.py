@@ -10,7 +10,10 @@ import codecs
 
 
 """
-    爬取网易云音乐歌曲的精彩评论
+【1】爬取网易云音乐歌曲的精彩评论
+【2】教程文章：https://mp.weixin.qq.com/s/tMVu8dUepSPIvm3yCMUt1g
+【3】爬取动态渲染页面(使用 ajax 加载数据)
+
 @Author monkey
 @Date 2018-6-6
 """

@@ -5,7 +5,11 @@ import csv
 import codecs
 from bs4 import BeautifulSoup
 
-
+'''
+项目说明：
+【1】抓取以 Python 为关键字搜索出来的书籍，并保存到 csv 文件中。
+【2】该项目是 **urllib**、**re**、**BeautifulSoup** 这三个库的用法的实战篇。
+'''
 def main():
     # 爬取地址, 当当所有 Python 的书籍, 一共是 21 页
     url = "http://search.dangdang.com/?key=python&act=input&show=big&page_index="

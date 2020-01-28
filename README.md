@@ -1,55 +1,41 @@
+## Python 网络爬虫、数据分析集合
+🕷🎯Python 3 网络爬虫实战、数据分析合集 
 
-## Python爬虫集合
-> 本仓库是自己编写Python网络爬虫的代码集合
+当当 | 网易云音乐 | unsplash | 必胜客 | 猫眼 | 博客: https://geekmonkey.top
+ 
+| Author  | 猴哥 |
+| :--- | :--- |
+| Email | chanql123@163.com |
+| 微信公众号 | 极客猴 |
+| Introduce | Python 3 网络爬虫实战合集 |
 
-          
-#### 1. 『[当当爬虫](1%20DangDangCrawler)』
+## 代码教程文章
+### 数据采集篇
 
-- 详情可以阅读文章：《 [爬虫实战一：爬取当当网所有 Python 书籍](https://mp.weixin.qq.com/s/_IKBJEkh9HtNhpJEbwsD6Q)》
-- 抓取以 Python 为关键字搜索出来的书籍，并保存到 csv 文件中。
-- 该项目是 **urllib**、**re**、**BeautifulSoup** 这三个库的用法的实战篇
+- [x] [【当当】抓取以 Python 为关键字搜索出来的书籍](https://mp.weixin.qq.com/s/_IKBJEkh9HtNhpJEbwsD6Q) 
+- [x] [【网易云音乐精彩评论】爬取动态渲染页面(Ajax 破解)](https://mp.weixin.qq.com/s/tMVu8dUepSPIvm3yCMUt1g)
+- [x] [【网易云音乐单首歌曲的所有评论】(Selenium 突破 Ajax)](https://mp.weixin.qq.com/s/kcA-6WEHWQ-DOwxtWtYjWw)
+- [x] [【多线程爬取 unsplash 图库(抓包分析 REST API 接口)】](https://mp.weixin.qq.com/s/hZxAAVW2UntRC8hyD_UWAA)
+- [x] [【100行代码爬取全国所有必胜客餐厅信息】(反爬虫分析, Cookies 破解)](https://mp.weixin.qq.com/s/ofBYdB26h4DJFyleZnBt5A)
+- [x] [【170行代码爬取《白蛇：缘起》短评数据】(反爬虫分析, 抓包)](https://mp.weixin.qq.com/s/zRJww2SRsexYGhbNJ4HtPw)
 
-
-#### 2.『 [网易云音乐精彩评论爬虫](2%20NeteaseMusic)』
-
-- 详情可以阅读文章：《 [爬取网易云音乐精彩评论](https://mp.weixin.qq.com/s/tMVu8dUepSPIvm3yCMUt1g)》
-- 爬取动态渲染页面(使用 ajax 加载数据)
-- 爬取网易云音乐部分歌曲的精彩评论
-
-#### 3. 『[爬取网易云音乐单首歌曲的所有评论](3%20NeteaseMusic2)』
-
-- 详情可以阅读文章：《 [爬取《Five Hundred Miles》在网易云音乐的所有评论](https://mp.weixin.qq.com/s/kcA-6WEHWQ-DOwxtWtYjWw)》
-- 使用 Selenium 爬取动态渲染页面(使用 ajax 加载数据)
-- 存储数据到 MongoDB 
-- 使用 Selenium 爬取《Five Hundred Miles》 在网易云音乐的所有评论, 然后存储到 MongoDB 中。
-
-
-#### 4. 『[多线程爬取 unsplash 图库](4%20UnsplashCrawler)』
-
-- 详情可以阅读文章：《[多线程爬取 unsplash 图库](https://mp.weixin.qq.com/s/hZxAAVW2UntRC8hyD_UWAA)》
-- 使用 requests、urllib 等网络请求库。
-- 使用多线程爬取网站
+### 数据分析篇   
+- [x] [【使用 Python 分析全国所有必胜客餐厅】(pyecharts 用法)](https://mp.weixin.qq.com/s/CXdAcCVurHlOk4nCZXkPHQ)
 
 
-#### 5.『[100行代码爬取全国所有必胜客餐厅信息](5%20Pizzahut)』
+### 代码传送门
+- [【当当】](DangDangCrawler)
+- [【网易云音乐精彩评论爬虫】](NeteaseMusic)
+- [【网易云音乐单首歌曲的所有评论】](NeteaseMusic2)
+- [【unsplash 图库】](UnsplashCrawler)
+- [【必胜客餐厅采集篇】](Pizzahut)
+- [【有必胜客餐厅分析篇】](Pizzahut_analysis)
+- [猫眼《白蛇：缘起》短评](Maoyan_WhiteSnake)
 
-- 详情可以阅读文章：《[100行代码爬取全国所有必胜客餐厅信息](https://mp.weixin.qq.com/s/ofBYdB26h4DJFyleZnBt5A)》
-- 反爬虫分析
+### 联系我
+如果在您使用过程中遇到问题，可以通过邮件、微信公众号、个人微信跟我联系。
 
-#### 6.『[使用 Python 分析全国所有必胜客餐厅](6%20Pizzahut_analysis)』
-
-- 详情可以阅读文章：《[使用 Python 分析全国所有必胜客餐厅](https://mp.weixin.qq.com/s/CXdAcCVurHlOk4nCZXkPHQ)》
-- 数据分析, pyecharts 用法介绍
-
-#### 7.『[170行代码爬取《白蛇：缘起》短评数据](7%20Maoyan_WhiteSnake)』
-
-- 详情可以阅读文章：《[170行代码爬取《白蛇：缘起》短评数据](https://mp.weixin.qq.com/s/zRJww2SRsexYGhbNJ4HtPw)》
-
-
-### 写在最后
-该仓库会持续更新...
-
-如果在您使用过程中遇到问题，可以到我的微信公众号『极客猴』留言。
-
+### 求关注
+看到这里, 求各位看官扫码我的个人微信公众号：『极客猴』, 这对我很重要
 ![关注该公众号](./img/极客猴.jpg)
 
